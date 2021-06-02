@@ -24,4 +24,4 @@
 <br />: ...
 -->
 
-![Daly2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=prussian&show_icons=true)
+![Daly2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecheng&theme=prussian&show_icons=true)
