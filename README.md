@@ -15,6 +15,7 @@
 - 📫 How to reach me: codecheng2021@gmail.com
 - 🌱 Languages and Tools: 
 
+![Daly2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecheng&theme=prussian&show_icons=true)
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
@@ -22,6 +23,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />: ...
--->
-
-![Daly2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecheng&theme=prussian&show_icons=true)
+--
